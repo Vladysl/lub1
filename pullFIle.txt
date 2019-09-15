@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-1some text
-=======
 2some text
->>>>>>> feature
+
